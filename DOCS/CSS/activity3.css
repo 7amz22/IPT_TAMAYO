@@ -1,0 +1,252 @@
+img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 1235px;
+    top: -90px;
+}
+
+.bio{
+    text-align: center;
+     font-size: 70px;
+     position: relative;
+     top: -50px;
+}
+
+.box1{
+    width: 1333px;
+    height: 40px;
+    border: 1px solid gray;
+    background-color: black;
+    position: relative;
+    color: white;
+    top: -50px;
+    border-radius: 10px;
+    } 
+
+    .box2{
+        width: 1331px;
+        height: 40px;
+        border: 1px solid gray;
+        background-color: black;
+        position: relative;
+        color: white;
+        bottom: 610px;
+        border-radius: 10px;
+        
+       } 
+
+       .box3{
+        width: 1331px;
+        height: 40px;
+        border: 1px solid gray;
+        background-color: black;
+        position: relative;
+        color: white;
+        bottom: 180px;
+        border-radius: 10px;
+        } 
+
+        .box4{
+            width: 1330px;
+            height: 40px;
+            border: 1px solid gray;
+            background-color: black;
+            position: relative;
+            color: white;
+            bottom: 330px;
+            border-radius: 10px;
+            } 
+   .personal_data{
+    position: relative;
+    top: -13px;
+    left: -20px;
+    }
+    .educational_background{
+        position: relative;
+        bottom: 13px;
+        left: -20px;
+    }
+    .employment_record{
+        position: relative;
+        bottom: 13px;
+        left: -20px;
+    }
+    .character_reference{
+        position: relative;
+        bottom: 13px;
+        left: -20px;
+    }
+
+   .container{
+    margin:auto;
+    width: 1310px;
+    height: 760px;
+    border-style: groove;
+    border-width: 1px;
+    border-color: black;
+    background: white;
+    position:inherit;
+    top:-10px;    
+    left: -1px;
+    right: 200px;
+    border-radius: 10px; 
+}
+
+.container2{
+    margin:auto;
+    width: 112px;
+    height: 600px;
+    background: white;
+    position:inherit;
+    bottom: 771px;   
+    left: 250px;
+    right: 200px;
+    border-radius: 10px; 
+}
+
+.container3{
+    margin:auto;
+    width: 1310px;
+    height: 210px;
+    border-style: groove;
+    border-width: 1px;
+    border-color: black;
+    background: white;
+    position:inherit;
+    top:-10px;    
+    left: -1px;
+    right: 200px;
+    border-radius: 10px; 
+}
+
+.container4{
+    margin:auto;
+    width:110px;
+    height: 170px;
+    background: white;
+    position:inherit;
+    bottom: 221px;   
+    left: 250px;
+    right: 200px;
+    border-radius: 10px; 
+}
+
+.container5{
+    margin:auto;
+    width: 1310px;
+    height: 210px;
+    border-style: groove;
+    border-width: 1px;
+    border-color: black;
+    background: white;
+    position:inherit;
+    top:-10px;    
+    left: -1px;
+    right: 200px;
+    border-radius: 10px; 
+}
+
+.container6{
+    margin:auto;
+    width:110px;
+    height: 170px;
+    background: white;
+    position:inherit;
+    bottom: 221px;   
+    left: 250px;
+    right: 200px;
+    border-radius: 10px; 
+}
+.container7{
+    margin:auto;
+    width:110px;
+    height: 170px;
+    background: white;
+    position:inherit;
+    bottom: 221px;   
+    left: 500px;
+    bottom: 390px;
+    border-radius: 10px; 
+}
+.container8{
+    margin:auto;
+    width: 1310px;
+    height: 210px;
+    border-style: groove;
+    border-width: 1px;
+    border-color: black;
+    background: white;
+    position:inherit;
+    top:-10px;    
+    left: -1px;
+    right: 200px;
+    border-radius: 10px; 
+}
+
+.container9{
+    margin:auto;
+    width:110px;
+    height: 170px;
+    background: white;
+    position:inherit;
+    bottom: 221px;   
+    left: 250px;
+    right: 200px;
+    border-radius: 10px; 
+}
+
+.container10{
+    
+    width: 700px;
+    height: 320px;
+    border-style: groove;
+    border-width: 1px;
+    border-color: black;
+    background: white;
+    position:inherit;
+    bottom:180px;    
+    left: 4px;
+    right: 200px;
+    border-radius: 10px; 
+}
+
+.container11{
+    
+    width: 600px;
+    height: 320px;
+    
+    background: white;
+    position:inherit;
+    bottom:500px;    
+    left: 720px;
+    right: 200px;
+    border-radius: 10px; 
+}
+.content{
+    color: black;
+    position: relative;
+    left: 10px;
+}
+
+.para{
+    color: black;
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+
+.signa{
+    color: black;
+    text-align: center;
+    position: relative;
+    top: 150px;
+
+}
+
+.line{
+    color: black;
+    text-align: center;
+    position: relative;
+    top: 90px;
+}

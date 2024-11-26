@@ -1,0 +1,71 @@
+.profile-card {
+    max-width: 400px;
+    max-height: 650px;
+    margin: 0px auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+
+}
+
+
+.profile-header {
+    text-align: center;
+    background-color: gray;
+    color: black;
+    padding: 20px;
+}
+
+.profile-header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.profile-header .tamz {
+    margin: 1px 0 0;
+    font-size: 1.5em;
+}
+
+
+.profile-body {
+    padding: 20px;
+    color: black;
+    top: -15px;
+    position: relative;
+    
+}
+
+.profile-body h2.about {
+    margin-top: 0;
+    color: black;
+    font-size: 1.2em;
+    border-bottom: 2px solid black;
+    display: inline-block;
+    padding-bottom: 5px;
+
+}
+
+.profile-body h4 {
+    margin: 15px 0 5px;
+    color: black;
+    border-bottom: 2px solid black;
+    display: inline-block;
+    font-size: 1.1em;
+    position: relative;
+    top: -40px;
+}
+
+.profile-body p {
+    line-height: 1.6;
+    margin: 5px 0;
+    position: relative;
+    top: -40px;
+}
+
+body{
+    background-color: black;
+}

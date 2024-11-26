@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, san-serif;
+    margin: 20px;
+}
+
+#calculator{
+    margin-bottom: 20px;
+}
+
+#fontSizeControls{
+    margin-top: 20px;
+}
