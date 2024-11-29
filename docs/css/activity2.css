@@ -1,0 +1,112 @@
+h1{
+    color: white;
+    position: relative;
+    bottom : 10px;
+    right: 629px;
+    width: 1000px;
+}
+.name{
+    position: relative;
+    top: 90px;
+    right: 580px;
+    width: 100px;
+}
+.h31{
+    text-align: center;
+    color: white;
+    position: relative;
+    justify: content;
+    right: 375px;
+    top: 250px;
+}
+.h32{
+    text-align: center;
+    color: white;
+    position: relative;
+    justify: content;
+    right: 140px;
+    top:187px;
+}
+.h33{
+    text-align: center;
+    color: white;
+    position: relative;
+    justify: content;
+    left:130px;
+    top:125px;
+}
+
+.h34{
+    text-align: center;
+    color: white;
+    position: relative;
+    justify: content;
+     left:380px;
+    top:60px;
+}
+
+
+p{
+    color: cyan;
+    width: 400px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: auto;
+    position: relative;
+    justify: content;
+    right: 625px;
+    bottom: 20px;
+}
+body{
+    height: 100px;
+    width: 100px;
+    margin: 0px auto;
+    position: relative;
+    justify: content;
+    background-position-x: center;
+
+    
+}
+
+img{
+width:90px;
+height: 90px;
+background: transparent;
+position: relative;
+right: 629px;
+}
+
+.bglove{
+    color: white;
+    position: relative;
+    justify: content;
+    width: 180px;
+    bottom: 250px;
+    right: 400px;
+}
+
+.fvartist{
+    color: white;
+    position: relative;
+    justify: content;
+    width: 180px;
+    bottom: 500px;
+    right: 150px;
+}
+
+.fvplayer{
+    color: white;
+    position: relative;
+    justify: content;
+    width: 180px;
+    bottom: 735px;
+    left: 100px;
+}
+
+.hbbies{
+    color: white;
+    position: relative;
+    justify: content;
+    width: 180px;
+    bottom: 950px;
+    left: 350px;
+}
